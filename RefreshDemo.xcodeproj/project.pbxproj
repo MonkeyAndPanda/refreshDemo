@@ -37,8 +37,6 @@
 		3630ECB91D13E36900F22008 /* UIScrollView+MJRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = 3630ECA31D13E36900F22008 /* UIScrollView+MJRefresh.m */; };
 		3630ECBA1D13E36900F22008 /* UIView+MJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 3630ECA51D13E36900F22008 /* UIView+MJExtension.m */; };
 		3630ECBB1D13E36900F22008 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 3630ECA61D13E36900F22008 /* README.md */; };
-		3630ECBD1D14140D00F22008 /* bigcursor.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3630ECBC1D14140D00F22008 /* bigcursor.gif */; };
-		3630ECBF1D1414BD00F22008 /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 3630ECBE1D1414BD00F22008 /* 58.png */; };
 		36E2F2941D150B79001E4884 /* MJRefreshActivityHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E2F2931D150B79001E4884 /* MJRefreshActivityHeader.m */; };
 /* End PBXBuildFile section */
 
@@ -117,8 +115,6 @@
 		3630ECA41D13E36900F22008 /* UIView+MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+MJExtension.h"; sourceTree = "<group>"; };
 		3630ECA51D13E36900F22008 /* UIView+MJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+MJExtension.m"; sourceTree = "<group>"; };
 		3630ECA61D13E36900F22008 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		3630ECBC1D14140D00F22008 /* bigcursor.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = bigcursor.gif; sourceTree = "<group>"; };
-		3630ECBE1D1414BD00F22008 /* 58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58.png; sourceTree = "<group>"; };
 		36E2F2921D150B79001E4884 /* MJRefreshActivityHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshActivityHeader.h; sourceTree = "<group>"; };
 		36E2F2931D150B79001E4884 /* MJRefreshActivityHeader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshActivityHeader.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -176,8 +172,6 @@
 				3630EC391D13DF6900F22008 /* AppDelegate.m */,
 				3630EC721D13E21200F22008 /* TableViewController.h */,
 				3630EC731D13E21200F22008 /* TableViewController.m */,
-				3630ECBC1D14140D00F22008 /* bigcursor.gif */,
-				3630ECBE1D1414BD00F22008 /* 58.png */,
 				3630EC741D13E21200F22008 /* TableViewController.xib */,
 				3630EC3E1D13DF6900F22008 /* Main.storyboard */,
 				3630EC411D13DF6900F22008 /* Assets.xcassets */,
@@ -427,8 +421,6 @@
 				3630ECB61D13E36900F22008 /* MJRefresh.bundle in Resources */,
 				3630EC401D13DF6900F22008 /* Main.storyboard in Resources */,
 				3630EC761D13E21200F22008 /* TableViewController.xib in Resources */,
-				3630ECBD1D14140D00F22008 /* bigcursor.gif in Resources */,
-				3630ECBF1D1414BD00F22008 /* 58.png in Resources */,
 				3630ECA71D13E36900F22008 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
